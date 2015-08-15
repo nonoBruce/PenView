@@ -2,8 +2,6 @@
 //  BezierView.m
 //  Pen画笔图形
 //
-//  Created by ELING on 15/8/5.
-//  Copyright (c) 2015年 ELING. All rights reserved.
 //
 
 #import "BezierView.h"
